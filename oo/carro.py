@@ -62,7 +62,7 @@ O       L
     >>> direcao.girar_a_esquerda()
     >>> direcao.valor
     'Sul'
-    >>> direcao.girar_a_equerda()
+    >>> direcao.girar_a_esquerda()
     >>> direcao.valor
     'Leste'
     >>> direcao.girar_a_esquerda()
